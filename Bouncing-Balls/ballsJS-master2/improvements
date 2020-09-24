@@ -1,0 +1,3 @@
+-Need to create appropirate response for collision using newtonian mechanics
+-Support more balls
+-Create an array for ball collisions, cycle through it and delete
