@@ -1,8 +1,8 @@
 # 2D-Bouncy-Balls
 
-2D ball collision game, created with p5.js, using basic collision mechanics. Check it:
+2D ball collision game, created with p5.js, using basic collision mechanics. 
 
-http://htmlpreview.github.io/?https://github.com/azizsaad/2D-Bouncy-Balls/blob/master/Bouncing-Balls/ballsJS_MAIN/index.html
+Check it: http://htmlpreview.github.io/?https://github.com/azizsaad/2D-Bouncy-Balls/blob/master/Bouncing-Balls/ballsJS_MAIN/index.html
 
 
 
